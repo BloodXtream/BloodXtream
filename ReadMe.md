@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi there!
+
+I'm a Computer Science student with a passion for coding, gaming, and diving deep into projects. Despite my ability to focus for days without external chatter, I'm not an introvert—I enjoy connecting with like-minded individuals and collaborating on innovative ideas.
+
+💻 Skills:
+- Coding wizardry
+- Gaming strategy
+- Problem-solving (even in silence!)
+🎮 When I'm not coding, you can find me leveling up in games or exploring new tech. Feel free to check out my repositories or reach out—I'm always open to a good conversation (or a good game).</h2>
 
 ###
 
