@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there!
+<h2 align="left" font-size:10px>👋 Hi there!
 
 I'm a Computer Science student with a passion for coding, gaming, and diving deep into projects. Despite my ability to focus for days without external chatter, I'm not an introvert—I enjoy connecting with like-minded individuals and collaborating on innovative ideas.
 
