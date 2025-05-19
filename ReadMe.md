@@ -14,6 +14,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BloodXtream&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
+
 ---
 
 ### 🧠 About Me
