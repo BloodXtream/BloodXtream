@@ -1,51 +1,63 @@
-<br clear="both">
+<h1 align="center">Hey there, I'm Pragyanam 👋</h1>
 
-<h4 align="left">👋 Hi there!<br>I'm a Computer Science student with a passion for coding, gaming, and diving deep into projects. Despite my ability to focus for days without external chatter, I'm not an introvert—I enjoy connecting with like-minded individuals and collaborating on innovative ideas.<br><br>💻 Skills:<br><br>Coding wizardry<br>Gaming strategy<br>Problem-solving (even in silence!) 🎮 When I'm not coding, you can find me leveling up in games or exploring new tech. Feel free to check out my repositories or reach out—I'm always open to a good conversation (or a good game).</h4>
+<p align="center">🧭 Navigating the world of tech with tradition, logic, and purpose-driven learning 🔧</p>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloodXtream&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=BloodXtream&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/pragyanam.tiwari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<p align="center">
+  <a href="https://www.instagram.com/pragyanam.tiwari/">
+    <img src="https://img.shields.io/badge/@pragyanam.tiwari-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="in/pragyanam-tiwari-266b63260" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://x.com/PragyanamTiwari">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="@PragyanamTiwari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/pragyanam-tiwari-266b63260/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="pragyanamtiwarii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+</p>
 
-###
+---
+
+### 🧠 About Me
+- 🎓 Pursuing a Bachelor of Computer Applications (BCA)
+- 🧠 Interested in Information Systems, Software Design, and Logical Problem Solving
+- 🧪 I value structured learning, traditional methods, and disciplined effort in mastering tech
+- 📖 Currently exploring system analysis, design, and real-world implementation strategies 
+
+---
+
+### 🛠️ Tech Highlights
+
+| Languages     | Tools & Frameworks          | Cloud & Deployment      |
+|--------------|-----------------------------|--------------------------|
+| JS, C++, C    | React, Next.js, Node.js      | Firebase, Netlify        |
+| HTML/CSS, SQL | Tailwind, Redux, Express     | GitHub Pages, Render     |
+| MongoDB       | Three.js, Framer Motion      | Docker                   |
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BloodXtream&theme=radical&show_icons=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BloodXtream&theme=radical&hide_border=true" width="48%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BloodXtream&layout=compact&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BloodXtream&theme=darkhub&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🔍 [Productivity Dashboard](https://github.com/BloodXtream/Productiviy-Dashboard) — A basic website for Student Management
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Building+with+purpose+and+precision;Rooted+in+logic%2C+growing+with+tech;Always+learning%2C+always+refining" />
+</p>
+
